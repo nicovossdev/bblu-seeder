@@ -36,6 +36,11 @@
 *.exe
 *.out
 *.app
+dnsseed*
+
 
 # debug information files
 *.dwo
+
+# log files
+dnsstats.log
